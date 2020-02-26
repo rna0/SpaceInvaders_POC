@@ -1,0 +1,35 @@
+C:\Users\aramae\source\repos\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe.config
+C:\Users\aramae\source\repos\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe
+C:\Users\aramae\source\repos\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.pdb
+C:\Users\aramae\source\repos\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.csprojAssemblyReference.cache
+C:\Users\aramae\source\repos\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.Form1.resources
+C:\Users\aramae\source\repos\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.Properties.Resources.resources
+C:\Users\aramae\source\repos\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.csproj.GenerateResource.cache
+C:\Users\aramae\source\repos\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.csproj.CoreCompileInputs.cache
+C:\Users\aramae\source\repos\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.exe
+C:\Users\aramae\source\repos\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.pdb
+E:\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe.config
+E:\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe
+E:\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.pdb
+E:\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.csprojAssemblyReference.cache
+E:\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.Form1.resources
+E:\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.Properties.Resources.resources
+E:\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.csproj.GenerateResource.cache
+E:\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.csproj.CoreCompileInputs.cache
+E:\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.exe
+E:\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.pdb
+C:\Users\royar\Documents\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe.config
+C:\Users\royar\Documents\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe
+C:\Users\royar\Documents\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.pdb
+C:\Users\royar\Documents\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.csprojAssemblyReference.cache
+C:\Users\royar\Documents\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.Form1.resources
+C:\Users\royar\Documents\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.Properties.Resources.resources
+C:\Users\royar\Documents\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.csproj.GenerateResource.cache
+C:\Users\royar\Documents\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.csproj.CoreCompileInputs.cache
+C:\Users\royar\Documents\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.exe
+C:\Users\royar\Documents\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.pdb
+F:\for roy only\school\כיתה יב\c#\SpaceInvaders - one player\SpaceInvaders\obj\Debug\SpaceInvaders.csprojAssemblyReference.cache
+F:\for roy only\school\כיתה יב\c#\SpaceInvaders - one player\SpaceInvaders\obj\Debug\SpaceInvaders.Form1.resources
+F:\for roy only\school\כיתה יב\c#\SpaceInvaders - one player\SpaceInvaders\obj\Debug\SpaceInvaders.csproj.GenerateResource.cache
+F:\for roy only\school\כיתה יב\c#\SpaceInvaders - one player\SpaceInvaders\obj\Debug\SpaceInvaders.exe
+F:\for roy only\school\כיתה יב\c#\SpaceInvaders - one player\SpaceInvaders\obj\Debug\SpaceInvaders.pdb
